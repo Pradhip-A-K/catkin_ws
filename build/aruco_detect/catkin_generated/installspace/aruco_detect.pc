@@ -1,0 +1,8 @@
+prefix=/home/pradhip/catkin_ws/install
+
+Name: aruco_detect
+Description: Description of aruco_detect
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
